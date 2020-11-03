@@ -12,7 +12,7 @@ import requests
 # r = requests.get(url)
 
 #儲存上一個成語
-print("成語接龍遊戲規則說明，若輸入格是錯誤，會請再輸入正確的成語\n若是想清除成語重新再猜請輸入clear\n若是想結束遊戲，請輸入end")
+print("成語接龍遊戲規則說明，若輸入格式錯誤，會請再輸入正確的成語\n若是想清除成語重新再猜請輸入clear\n若是想結束遊戲，請輸入end")
 
 idiom = ""
 while True:
