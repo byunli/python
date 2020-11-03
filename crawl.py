@@ -9,7 +9,6 @@ dictData = resp.json()
 # 取得今天日期
 today = date.today()
 # print('今天的日期: ',today)
-# print('-'*30)
 
 # 取得今天的年份和月份
 month = today.month
@@ -36,19 +35,3 @@ for data in dictData["result"]["results"]:
     # ddd = date.fromisoformat(data["date"])
     if formatDate >= startDate and formatDate < endDate:
         print(data["date"]," - ", data["holidayCategory"], " - ", data["name"])
-
-
-# print(soup)
-# print(soup.h1.text)
-
-# for title in soup.find_all('h3','post-title'):
-#     print(title)
-#     print(title.text)
-
-# for h3 in soup.find_all('h3'):
-#     print(h3.a)
-
-
-# for posts in soup.find_all('div','post-body'):
-#     for post in posts.stripped_strings:
-#         print(post)

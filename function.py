@@ -1,10 +1,8 @@
 from datetime import datetime
 #def 函式名稱(參數):
-#   要做的事情
 
 # def sumCal(numberC,numberD):
 #     result = numberC**numberD
-
 #     return result
 
 # print(sumCal(10,2))
