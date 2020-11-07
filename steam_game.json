@@ -1,0 +1,304 @@
+{
+    "games": [
+        {
+            "title": "Counter-Strike: Global Offensive",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/730/capsule_sm_120.jpg?t=1604621473",
+            "release": "2012 年 8 月 21 日",
+            "price": "免費遊玩"
+        },
+        {
+            "title": "Warframe",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/230410/capsule_sm_120.jpg?t=1601568920",
+            "release": "2013 年 3 月 25 日",
+            "price": "免費遊玩"
+        },
+        {
+            "title": "Destiny 2",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1085660/capsule_sm_120.jpg?t=1604017438",
+            "release": "2019 年 10 月 1 日",
+            "price": "免費遊玩"
+        },
+        {
+            "title": "糖豆人：終極淘汰賽",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1097150/capsule_sm_120_alt_assets_0.jpg?t=1603922857",
+            "release": "2020 年 8 月 3 日",
+            "price": "NT$318"
+        },
+        {
+            "title": "PLAYERUNKNOWN'S BATTLEGROUNDS",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/578080/capsule_sm_120.jpg?t=1603301354",
+            "release": "2017 年 12 月 21 日",
+            "price": "NT$799"
+        },
+        {
+            "title": "Phasmophobia",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/739630/capsule_sm_120.jpg?t=1602901901",
+            "release": "2020 年 9 月 18 日",
+            "price": "NT$248"
+        },
+        {
+            "title": "Among Us",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/945360/capsule_sm_120.jpg?t=1604351497",
+            "release": "2018 年 11 月 16 日",
+            "price": "NT$102"
+        },
+        {
+            "title": "Dead by Daylight",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/381210/capsule_sm_120.jpg?t=1603836608",
+            "release": "2016 年 6 月 14 日",
+            "price": "NT$468"
+        },
+        {
+            "title": "The Sims™ 4",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1222670/capsule_sm_120.jpg?t=1604441104",
+            "release": "2020 年 6 月 18 日",
+            "price": "NT$999NT$249"
+        },
+        {
+            "title": "The Outer Worlds",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/578650/capsule_sm_120.jpg?t=1604433520",
+            "release": "2020 年 10 月 23 日",
+            "price": "NT$1,789NT$894"
+        },
+        {
+            "title": "Tom Clancy's Rainbow Six® Siege",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/359550/capsule_sm_120.jpg?t=1603919142",
+            "release": "2015 年 12 月 1 日",
+            "price": "NT$569"
+        },
+        {
+            "title": "Sid Meier’s Civilization® VI",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/289070/capsule_sm_120.jpg?t=1600988681",
+            "release": "2016 年 10 月 20 日",
+            "price": "NT$1,790NT$447"
+        },
+        {
+            "title": "Soulworker",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1377580/capsule_sm_120_tchinese.jpg?t=1603949943",
+            "release": "2020 年 10 月 2 日",
+            "price": "免費"
+        },
+        {
+            "title": "Cities: Skylines",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/255710/capsule_sm_120.jpg?t=1589804223",
+            "release": "2015 年 3 月 10 日",
+            "price": "NT$688NT$172"
+        },
+        {
+            "title": "Hades",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/capsule_sm_120.jpg?t=1603498007",
+            "release": "2020 年 9 月 17 日",
+            "price": "NT$378"
+        },
+        {
+            "title": "Monster Hunter: World",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/582010/capsule_sm_120.jpg?t=1602806745",
+            "release": "2018 年 8 月 9 日",
+            "price": "NT$920"
+        },
+        {
+            "title": "ARK: Survival Evolved",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/346110/capsule_sm_120.jpg?t=1604090144",
+            "release": "2017 年 8 月 29 日",
+            "price": "NT$698NT$139"
+        },
+        {
+            "title": "Baldur's Gate 3",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/capsule_sm_120.jpg?t=1603803337",
+            "release": "2020 年 10 月 6 日",
+            "price": "NT$1,599"
+        },
+        {
+            "title": "CODE VEIN",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/678960/capsule_sm_120.jpg?t=1597152578",
+            "release": "2019 年 9 月 26 日",
+            "price": "NT$1,340NT$536"
+        },
+        {
+            "title": "Grand Theft Auto V",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/271590/capsule_sm_120.jpg?t=1592866696",
+            "release": "2015 年 4 月 13 日",
+            "price": "NT$990"
+        },
+        {
+            "title": "Age of Empires II: Definitive Edition",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/813780/capsule_sm_120.jpg?t=1598909139",
+            "release": "2019 年 11 月 14 日",
+            "price": "NT$679"
+        },
+        {
+            "title": "Crusader Kings III",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1158310/capsule_sm_120.jpg?t=1602596444",
+            "release": "2020 年 9 月 1 日",
+            "price": "NT$698"
+        },
+        {
+            "title": "Conqueror's Blade",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/835570/capsule_sm_120.jpg?t=1602315112",
+            "release": "2020 年 4 月 5 日",
+            "price": "免費遊玩"
+        },
+        {
+            "title": "Rust",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/252490/capsule_sm_120.jpg?t=1603276077",
+            "release": "2018 年 2 月 8 日",
+            "price": "NT$568"
+        },
+        {
+            "title": "Desperados III",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/610370/capsule_sm_120.jpg?t=1604603512",
+            "release": "2020 年 6 月 16 日",
+            "price": "NT$1,099NT$659"
+        },
+        {
+            "title": "Age of Empires III: Definitive Edition",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/933110/capsule_sm_120.jpg?t=1602782966",
+            "release": "2020 年 10 月 15 日",
+            "price": "NT$318"
+        },
+        {
+            "title": "Red Dead Redemption 2",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/capsule_sm_120.jpg?t=1597419522",
+            "release": "2019 年 12 月 5 日",
+            "price": "NT$1,790"
+        },
+        {
+            "title": "Monster Hunter World: Iceborne",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1118010/capsule_sm_120.jpg?t=1601538010",
+            "release": "2020 年 1 月 9 日",
+            "price": "NT$1,230"
+        },
+        {
+            "title": "Sekiro™: Shadows Die Twice - GOTY Edition",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/814380/capsule_sm_120.jpg?t=1603904569",
+            "release": "2019 年 3 月 21 日",
+            "price": "NT$1,590"
+        },
+        {
+            "title": "軒轅劍柒",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1249800/capsule_sm_120_tchinese.jpg?t=1604297655",
+            "release": "2020 年 10 月 28 日",
+            "price": "NT$1,080"
+        },
+        {
+            "title": "Sea of Thieves",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172620/capsule_sm_120.jpg?t=1604426451",
+            "release": "2020 年 6 月 3 日",
+            "price": "NT$1,099"
+        },
+        {
+            "title": "Phantasy Star Online 2",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1056640/capsule_sm_120.jpg?t=1601466938",
+            "release": "2020 年 8 月 5 日",
+            "price": "免費遊玩"
+        },
+        {
+            "title": "動物園之星",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/703080/capsule_sm_120.jpg?t=1598353994",
+            "release": "2019 年 11 月 5 日",
+            "price": "NT$975NT$633"
+        },
+        {
+            "title": "The Dark Pictures Anthology: Little Hope",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1194630/capsule_sm_120.jpg?t=1604413395",
+            "release": "2020 年 10 月 29 日",
+            "price": "NT$790"
+        },
+        {
+            "title": "侏羅紀世界：進化",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/648350/capsule_sm_120.jpg?t=1595319162",
+            "release": "2018 年 6 月 11 日",
+            "price": "NT$1,280NT$320"
+        },
+        {
+            "title": "Albion Online",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/761890/capsule_sm_120.jpg?t=1601570292",
+            "release": "2018 年 5 月 16 日",
+            "price": "免費遊玩"
+        },
+        {
+            "title": "DOOM Eternal",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/782330/capsule_sm_120.jpg?t=1603213568",
+            "release": "2020 年 3 月 19 日",
+            "price": "NT$1,799"
+        },
+        {
+            "title": "Wallpaper Engine",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/431960/capsule_sm_120.jpg?t=1604592117",
+            "release": "2018 年 11 月 16 日",
+            "price": "NT$120"
+        },
+        {
+            "title": "Yu-Gi-Oh! Duel Links",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/601510/capsule_sm_120.jpg?t=1602636558",
+            "release": "2017 年 11 月 16 日",
+            "price": "免費遊玩"
+        },
+        {
+            "title": "《Apex 英雄》",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1172470/capsule_sm_120.jpg?t=1604607983",
+            "release": "2020 年 11 月 4 日",
+            "price": ""
+        },
+        {
+            "title": "王國紀元",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1041320/capsule_sm_120.jpg?t=1596010871",
+            "release": "2019 年 6 月 2 日",
+            "price": "免費"
+        },
+        {
+            "title": "The Elder Scrolls® Online",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/306130/capsule_sm_120.jpg?t=1601043462",
+            "release": "2017 年 5 月 22 日",
+            "price": "NT$599"
+        },
+        {
+            "title": "Left 4 Dead 2",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/550/capsule_sm_120.jpg?t=1601578341",
+            "release": "2009 年 11 月 16 日",
+            "price": "NT$186"
+        },
+        {
+            "title": "三國志14",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/872410/capsule_sm_120_tchinese.jpg?t=1600909240",
+            "release": "2020 年 1 月 15 日",
+            "price": "NT$1,790NT$1,253"
+        },
+        {
+            "title": "Project Winter",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/774861/capsule_sm_120_alt_assets_1.jpg?t=1603991468",
+            "release": "2019 年 5 月 23 日",
+            "price": "NT$318NT$108"
+        },
+        {
+            "title": "DEAD OR ALIVE Xtreme Venus Vacation",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/958260/capsule_sm_120.jpg?t=1602123636",
+            "release": "2019 年 3 月 25 日",
+            "price": "免費遊玩"
+        },
+        {
+            "title": "Total War: THREE KINGDOMS",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/779340/capsule_sm_120.jpg?t=1603130867",
+            "release": "2019 年 5 月 23 日",
+            "price": "NT$1,690"
+        },
+        {
+            "title": "Don't Starve Together",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/322330/capsule_sm_120_alt_assets_8.jpg?t=1603385906",
+            "release": "2016 年 4 月 21 日",
+            "price": "NT$268"
+        },
+        {
+            "title": "Craftopia / 始世樂土",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/1307550/capsule_sm_120.jpg?t=1602802037",
+            "release": "2020 年 9 月 4 日",
+            "price": "NT$378"
+        },
+        {
+            "title": "Remnant: From the Ashes",
+            "img": "https://cdn.cloudflare.steamstatic.com/steam/apps/617290/capsule_sm_120.jpg?t=1598909050",
+            "release": "2019 年 8 月 19 日",
+            "price": "NT$568"
+        }
+    ]
+}
