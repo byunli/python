@@ -70,6 +70,7 @@ while True:
     player = input("請輸入一個成語:")
 
     if player == "end":
+        
         print("謝謝遊玩")
         break
     if player == "clear":

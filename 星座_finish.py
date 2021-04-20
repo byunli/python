@@ -1,5 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
+
+#爬蟲美日星座資料
 # astros[0]="牡羊座";
 # astros[1]="金牛座";
 # astros[2]="雙子座";
